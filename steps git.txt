@@ -1,0 +1,11 @@
+touch .gitignore
+git config --global user.name "user name"
+git config --global user.email "parkashchader962@gmail.com"
+git init
+git add . // all files in  staging area for upload
+git commit -m "intital commit" // make git
+git status //optional
+ ssh-keygen //crete ssh key for private  git
+ cat path
+ git remote add origin <path of repostries>
+ git push origin master
